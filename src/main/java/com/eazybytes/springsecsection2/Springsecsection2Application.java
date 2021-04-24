@@ -9,6 +9,8 @@ import org.springframework.context.annotation.ComponentScans;
 @ComponentScans({ @ComponentScan("com.eazybytes.controller"), @ComponentScan("com.eazybytes.config") })
 public class Springsecsection2Application {
 
+	
+	//main method
 	public static void main(String[] args) {
 		SpringApplication.run(Springsecsection2Application.class, args);
 	}
