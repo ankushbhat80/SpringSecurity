@@ -10,6 +10,7 @@ import org.springframework.context.annotation.ComponentScans;
 public class Springsecsection2Application {
 
 	
+	
 	//main method please review
 	public static void main(String[] args) {
 		SpringApplication.run(Springsecsection2Application.class, args);
